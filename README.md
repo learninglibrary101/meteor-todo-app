@@ -1,5 +1,5 @@
-## 8_Adding_user_accounts
+## 9_Security_with_methods
 
 ```javascript
-meteor add accounts-ui accounts-password
+meteor remove insecure
 ```
