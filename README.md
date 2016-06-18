@@ -1,4 +1,4 @@
-## 2_Collections
+## 3_Collections
 
 ```javascript
 meteor npm install --save react-addons-pure-render-mixin
