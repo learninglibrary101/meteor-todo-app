@@ -1,5 +1,6 @@
-## 9_Security_with_methods
+## 10_Publish_and_subscribe
 
 ```javascript
-meteor remove insecure
+meteor remove autopublish
+meteor npm install --save classnames
 ```
