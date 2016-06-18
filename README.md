@@ -1,6 +1,7 @@
-## 10_Publish_and_subscribe
+## This is my meteor-react Todo List App
 
+In order to use this app please do as follows:
 ```javascript
-meteor remove autopublish
-meteor npm install --save classnames
+meteor npm install
+meteor
 ```
